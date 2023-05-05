@@ -25,7 +25,7 @@ Check out [FRONTEND LIVE DEMO](https://cinema-paradise-frontend.samandaduclair.r
 1. Git Clone
 
 ```
-git clone https://github.com/cnye825/Cinema-Paradise-Main.git
+git clone https://github.com/SamandaDuclair/cinema-paradise.git
 ```
 
 2. Backend setting
